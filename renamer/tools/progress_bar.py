@@ -24,12 +24,21 @@ async def progress_bar(current, total, status_msg, start, msg):
             )
         current_message = f"""**{status_msg}** 
 {progressbar}
+{humanbytes(current)} of {humanbytes(total)}
+{time_to_complete} more
+
+"""
+        
+        
+        
+        """current_message = f"**{status_msg}** 
+{progressbar}
 📊Percentage: {round(percentage, 2)}%
 🚀Speed: {humanbytes(speed)}/s
 ✅Done: {humanbytes(current)}
 🗃️File Size: {humanbytes(total)}
-⏳Time Left: {time_to_complete}\n
-Powered By Google Clouds
+⏳Time Left: {time_to_complete}\n"
+
 """
         try:
             await msg.edit(text=current_message)
