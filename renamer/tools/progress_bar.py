@@ -22,7 +22,7 @@ async def progress_bar(current, total, status_msg, start, msg):
             ''.join([f"◼️" for i in range(math.floor(percentage / 10))]),
             ''.join([f"◻️" for i in range(10 - math.floor(percentage / 10))])
             )
-        current_message = f"""**{status_msg}** 
+        current_message = f"""{status_msg} 
 {humanbytes(current)} of {humanbytes(total)}
 {time_to_complete} more
 
