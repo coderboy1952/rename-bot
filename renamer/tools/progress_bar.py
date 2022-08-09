@@ -24,7 +24,7 @@ async def progress_bar(current, total, status_msg, start, msg):
             )
         current_message = f"""{status_msg} 
 {humanbytes(current)} of {humanbytes(total)}
-{time_to_complete} more
+
 
 """
        
