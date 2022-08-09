@@ -14,15 +14,15 @@ class TEXT:
 
 
     ABOUT = """**𝖬𝗒 𝖣𝖾𝗍𝖺𝗂𝗅𝗌 :**
-** 🎲My Name:** {bot_name}
+** 🌟My Name:** {bot_name}
 
-** 🎲Language:** [Python 3](https://www.python.org/)
+** 🌟Language:** [Python 3](https://www.python.org/)
 
-** 🎲FrameWork:** [Pyrogram](https://github.com/pyrogram/pyrogram)
+** 🌟FrameWork:** [Pyrogram](https://github.com/pyrogram/pyrogram)
 
-** 🎲Developer:** @CyberHunter07
+** 🌟Developer:** @CyberHunter07
 
-** 🎲Country:** India🇮🇳
+** 🌟Country:** India🇮🇳
 """
 
     HELP_USER = """**Follow Below Steps:**
