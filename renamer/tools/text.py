@@ -1,7 +1,7 @@
 from pyrogram.emoji import *
 
 class TEXT:
-    DOWNLOAD_START = f"Processing the file...🔃"
+    DOWNLOAD_START = f"Doing something with the file...🔃"
     UPLOAD_START = f"Upload will start soon...⬆️"
     UPLOAD_SUCESS = f"Thanks for using me...😀"
     BANNED_USER_TEXT = f"Hey bro, you are `banned` from using me...🙄\n Contact Admin."
@@ -40,30 +40,10 @@ I'm a Powerful File Renamer Bot🤖 with permanent thumbnail support.
 
 For more details see 🆘Help.
 
-⏰Time gap is provided to reduce heavy load on the server.
+⏰Time gap is provided to reduce load on the server.
 
-Try out 🌟Premium bot features just in ₹20 for a Month.
 Click on button below to know more about 🌟Premium Features.
 """
 
 
-    DONATE_USER = """
-**🌟Premium Features Plans.__**
-1. ₹5 for 5days
-2. ₹10 for 12days
-3. ₹20 for 25days
-4. ₹30 for 40days
-5. ₹50 for 60days
-
-**🌟Premium Features**
-📎Rename Multiple Files
-📎No Time Gap
-📎Bot Support
-
-**💵Payment Method**
-UPI: `7209566441@ybl`  `vgxkrypton@ybl`  `7209566441@axl`
-
-**🔑Activation**
-Just share the screenshot to [Miss Alpha](https://t.me/MssAlpha)
-Thats it...🎉
-"""
+    DONATE_USER = """Currently Bot is free...🙂\nEnjoy!!!"""
