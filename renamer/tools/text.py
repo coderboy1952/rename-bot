@@ -48,4 +48,4 @@ From 28th November Bot will discontinue due to Heroku paid plan feature.
 """
 
 
-    DONATE_USER = """Donate Some Money to continue this service....\nUPI ID: ```7209566441@ybl```"""
+    DONATE_USER = """Donate Some Money to continue this service...\n **UPI ID:** `7209566441@ybl`"""
