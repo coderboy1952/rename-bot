@@ -43,7 +43,9 @@ For more details see 🆘Help.
 ⏰Time gap is provided to reduce load on the server.
 
 Click on button below to know more about 🌟Premium Features.
+
+From 28th November Bot will discontinue due to Heroku paid plan feature.
 """
 
 
-    DONATE_USER = """Currently Bot is free...🙂\nEnjoy!!!"""
+    DONATE_USER = """Donate Some Money to continue this service....\nUPI ID: ```7209566441@ybl```"""
